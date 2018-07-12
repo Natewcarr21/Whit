@@ -1,0 +1,262 @@
+#test {
+     height: 100px;
+     width: 100px;
+     border-radius: 100%;
+     color: white;
+     font-size: 20px;
+     background-color: red;
+     margin: 20px;
+     left: 50%;
+     top: 50%;
+     position: absolute;
+ }
+
+
+.bg {
+    background-image: url("white.jpg");
+    background-size: cover;
+}
+
+.above-nav {
+    color: #604F55;
+    font-family: "dancing Script", sans-serif;
+    font-size: 60px;
+    text-align: center;
+    padding-top: 25px;
+}
+
+.naver {
+    background-color: #EEE7E1;
+    width: 100%;
+    text-align: center;
+    margin: 35px 0;
+    padding: 10px;
+    position: sticky;
+
+}
+
+.naver a {
+    text-decoration: none;
+    color: #604F55;
+    font-family: Georgia, sans-serif;
+    font-size: 20px;
+    padding-right: 25px;
+    padding-left: 25px;
+
+}
+
+.naver a:hover {
+    color: black;
+}
+
+.foot {
+    margin-top: 650px;
+    background-color: #EEE7E1;
+    width: 100%;
+    text-align: center;
+    padding: 10px;
+    line-height: 20px;
+    position: sticky;
+    opacity: .6;
+
+}
+
+.foot a {
+    font-size: 15px;
+    text-decoration: none;
+    color: #604F55;
+    font-family: Georgia, sans-serif;
+}
+
+/* ALL CSS ABOVE THIS LINE IS FOR THE HOMEPAGE */
+
+.bg-pic {
+    background-image: url("white.jpg");
+    background-size: cover;
+}
+
+.above-nav-pics {
+    color: #604F55;
+    font-family: "dancing Script", sans-serif;
+    font-size: 60px;
+    text-align: center;
+    padding-top: 25px;
+}
+
+.naver-pics {
+    background-color: #EEE7E1;
+    width: 100%;
+    text-align: center;
+    margin: 35px 0;
+    padding: 10px;
+    position: sticky;
+
+}
+
+.naver-pics a {
+    text-decoration: none;
+    color: #604F55;
+    font-family: Georgia, sans-serif;
+    font-size: 20px;
+    padding-right: 25px;
+    padding-left: 25px;
+
+}
+
+.naver-pics a:hover {
+    color: black;
+}
+
+.foot-pic {
+    margin-top: 150px;
+    background-color: #EEE7E1;
+    width: 100%;
+    text-align: center;
+    padding: 10px;
+    line-height: 20px;
+    position: sticky;
+    opacity: .6;
+
+}
+
+.foot-pic a {
+    font-size: 15px;
+    text-decoration: none;
+    color: #604F55;
+    font-family: Georgia, sans-serif;
+}
+
+.dating-header {
+    color: #604F55;
+    font-family: Didot, sans-serif;
+    font-size: 80px;
+    text-align: center;
+    margin-top: 60px;
+    margin-bottom: 20px;
+    letter-spacing: 5px;
+
+}
+
+.proposal-header {
+    color: #604F55;
+    font-family: Didot, sans-serif;
+    font-size: 80px;
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 10px;
+    letter-spacing: 5px;
+
+}
+
+.engagements-header {
+    color: #604F55;
+    font-family: Didot, sans-serif;
+    font-size: 80px;
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+    letter-spacing: 5px;
+
+}
+
+.sub-head-pics {
+    color: #604F55;
+    font-family: Didot, sans-serif;
+    text-align: center;
+    padding-bottom: 10px;
+
+}
+
+.col {
+    margin: auto 30px;
+    position: center;
+    border-radius: 10px;
+}
+
+.col img {
+    width: 240px;
+    height: 330px;
+    padding: 20px 50px;
+
+}
+
+/* ALL CSS ABOVE THIS LINE IS FOR THE PICTURES PAGE */
+
+.bg-story {
+    background-image: url("w+n133 2.jpg");
+    background-size: cover;
+}
+
+.naver-story {
+    background-color: #EEE7E1;
+    width: 100%;
+    text-align: center;
+    margin: 35px 0;
+    padding: 10px;
+    position: sticky;
+    opacity: .9;
+
+}
+
+.naver-story a {
+    text-decoration: none;
+    color: #604F55;
+    font-family: Georgia, sans-serif;
+    font-size: 20px;
+    padding-right: 25px;
+    padding-left: 25px;
+
+}
+
+.naver-story a:hover {
+    color: black;
+}
+
+.head-story {
+    color: #604F55;
+    font-family: Didot, sans-serif;
+    font-size: 60px;
+    text-align: center;
+    margin-top: 80px;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+
+}
+.story-options {
+    background-color: transparent;
+    width: 100%;
+    font-family: Georgia, sans-serif;
+    text-align: center;
+    padding: 20px;
+
+}
+
+.story-options a {
+    text-decoration: none;
+    color: #604F55;
+    font-family: Georgia, sans-serif;
+    font-size: 20px;
+    padding: 10px 50px;
+}
+.story-options a:hover {
+    color: black;
+}
+.foot-story {
+    margin-top: 680px;
+    background-color: #EEE7E1;
+    width: 100%;
+    text-align: center;
+    padding: 10px;
+    line-height: 20px;
+    position: sticky;
+    opacity: .8;
+
+}
+
+.foot-story a {
+    font-size: 15px;
+    text-decoration: none;
+    color: #604F55;
+    font-family: Georgia, sans-serif;
+}
